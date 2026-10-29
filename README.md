@@ -127,7 +127,7 @@ Ikuti langkah-langkah berikut secara berurutan dari awal saat baru mengunduh ata
 
 ### Langkah 1 — Clone Repository
 ```bash
-git clone https://github.com/AhmadSon/APP-OCR-AI-OSMP.git
+git clone https://github.com/AhmadSon/APP-OCR-AI-OSMP-public.git
 cd APP-OCR-AI-OSMP
 ```
 
